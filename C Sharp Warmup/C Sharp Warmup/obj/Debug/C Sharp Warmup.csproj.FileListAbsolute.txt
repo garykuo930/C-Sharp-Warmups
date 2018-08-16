@@ -1,0 +1,7 @@
+C:\Users\III\Google 雲端硬碟\Csharp_startup\SideWork\C Sharp Warmup\C Sharp Warmup\bin\Debug\C Sharp Warmup.exe.config
+C:\Users\III\Google 雲端硬碟\Csharp_startup\SideWork\C Sharp Warmup\C Sharp Warmup\bin\Debug\C Sharp Warmup.exe
+C:\Users\III\Google 雲端硬碟\Csharp_startup\SideWork\C Sharp Warmup\C Sharp Warmup\bin\Debug\C Sharp Warmup.pdb
+C:\Users\III\Google 雲端硬碟\Csharp_startup\SideWork\C Sharp Warmup\C Sharp Warmup\obj\Debug\C Sharp Warmup.csprojAssemblyReference.cache
+C:\Users\III\Google 雲端硬碟\Csharp_startup\SideWork\C Sharp Warmup\C Sharp Warmup\obj\Debug\C Sharp Warmup.csproj.CoreCompileInputs.cache
+C:\Users\III\Google 雲端硬碟\Csharp_startup\SideWork\C Sharp Warmup\C Sharp Warmup\obj\Debug\C Sharp Warmup.exe
+C:\Users\III\Google 雲端硬碟\Csharp_startup\SideWork\C Sharp Warmup\C Sharp Warmup\obj\Debug\C Sharp Warmup.pdb
